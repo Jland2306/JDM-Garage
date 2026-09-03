@@ -62,4 +62,4 @@ This is a solo 3D environment art project: a detailed garage scene built entirel
 
 ## About This Project
 
-A self-directed solo project made to practice the full 3D art pipeline end to end — modeling, texturing, animation, and real-time integration — resulting in an explorable environment built in Unity.
+A self-directed solo project made to practice the full 3D art pipeline end to end by modeling, texturing, animation, and real-time integration. Which resulted in an explorable environment built in Unity.
