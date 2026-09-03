@@ -37,8 +37,8 @@ This is a solo 3D environment art project: a detailed garage scene built entirel
 
 | Action | Control |
 | --- | --- |
-| Move | `[W · A · S · D]` |
-| Look | `[Mouse]` |
+| Move | `WASD` |
+| Look | `Mouse` |
 
 ## Development Highlights
 
