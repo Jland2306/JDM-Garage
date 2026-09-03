@@ -8,9 +8,6 @@ A fully realized 3D garage with furniture, tires, and a vehicle. All modeled, te
 
 ---
 
-> **Fill in —** Add screenshots or a short walkthrough GIF here — this is by far the most important thing on the page for an art project, since the visuals *are* the work. A few angles of the environment plus a clip of the animation make the strongest impression. Drop the files in a `/screenshots` folder and reference them:
-> `![Garage environment](screenshots/garage.png)`
-
 <p align="center">
   <img src="screenshots/garage1.png" width="500">
 </p>
